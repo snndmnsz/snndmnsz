@@ -3,7 +3,6 @@
   <i>so tell me where im suppose to go? <br/>
   to the left, where nothing is right <br/>
   or to the right, where nothing is left <br/>
-   <b>-itachi uchiha</b></i>
 </div>
 
 <br/>
