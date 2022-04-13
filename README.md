@@ -1,19 +1,12 @@
 
+<div align="center">
+  <i>so tell me where im suppose to go? <br/>
+  to the left, where nothing is right <br/>
+  or to the right, where nothing is left <br/>
+   <b>-itachi uchiha</b></i>
+</div>
 
-<!--
-**snndmnsz/snndmnsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hello there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/42818330/112558084-ffdf1c00-8dde-11eb-8ada-62e6b5438df1.gif" alt="animated" />
